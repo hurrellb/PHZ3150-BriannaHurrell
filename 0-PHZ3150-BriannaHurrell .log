@@ -1,0 +1,95 @@
+Brianna Hurrell
+
+Log for PHZ 3150, Spring 2022
+
+*****IN:Sun Jan 16 13:21:07 EST 2022
+
+Made a directory for PHZ 3150 here:
+/Home/BriannaHurrell/phz3150
+
+Opened atom and started this log saved as:
+0-phz3150-BriannaHurrell.Log
+
+Then I copied and pasted the questionnaire and filled in here:
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+
+           Name: Brianna Hurrell
+          Email: hurrellb@knights.ucf.edu
+	  Phone: 858-245-6058
+          Major: Photonics Engineering
+           Year: 3rd year
+             ID: 5046078
+
+How did you hear about this course?
+This course was presented to me by my advisor as an alternative course that would better help me learn coding.
+Do you have a laptop you can bring to class, install software on, etc.?
+Yes I do
+What operating system and version does it run?
+MacOS Mojave
+How much free disk space does it have?
+24.61 GB
+What operating systems are you comfortable working in?
+MacOS or Windows
+What computer classes have you taken, including high school,
+extracurricular, etc.?
+N/A
+Have you ever programmed a computer?
+No
+   In what language(s)?
+
+   Summarize your experience:
+
+Have you taken statistics or probability?
+Yes
+Why are you taking this course?
+I am taking this course to better understand coding.
+Are there particular topics you hope to learn?
+Not necessarily I just would love to be able to code on my own without the help of others.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: N/A
+
+Have you ever been involved with a science club or similar?  If so,
+describe: N/A
+
+Made a directory for books in PHZ3150 by right clicking and creating a directory
+Then downloaded Think Python through UCF Webcourses and put it into:
+BriannaHurrell/PHZ3150/books
+
+*****OUT: Sun Jan 16 13:53:07 EST 2022
+
+*****IN: Wed Jan 19 23:48:23 EST 2022
+
+Workin on HW 2
+
+Started download of Miniconda by clicking link in Webcourses: https://conda.io/miniconda.html
+Opened through safari and slected 3.7 Miniconda3 MacOS 64-bit bash
+Open terminal on desktop then loaded Miniconda by dragging the selected file
+Ran Miniconda and updated then downloaded Jupyter through by typing: conda install juptyer
+Took a screenshot by Pressing command+shift+4 and dragging where I wanted the screen shot to be
+
+What is your python version?
+Python3 (ipykernel)
+Screenshot taken
+
+Had Github Desktop App already downloaded but synced to classroom then took a screenshot
+
+Write an original English sentence that has correct syntax but incorrect
+tokens, and an original English sentence with incorrect syntax but correct tokens.
+
+Th@t red umbre||a is too $mall to pro+ect me from the r@in
+
+Small umberella red is from the rain to protect that.
+
+What main “feature” of natural languages prevents their use (so far) as programming languages,
+and why?
+One pf feature of natural languages that prevents their use as programming languages is Ambiguity. Natural languages use
+a lot of ambiguity because they can use context cues in order to understand what is being said whereas programming languages
+only have one meaning to one specific statement.
+
+Completed Github Hello World tutorial
+
+Transferred HW1-Survey.txt to Github HW1 submission by dragging it and submitting
+Took a screenshot to show proof
+
+
+*****OUT: Thur Jan 20 1:06:48 EST 2022
